@@ -1,8 +1,14 @@
 csv/
 outputs/
+reports/
+plots/
+notes/
 __pycache__/
 .DS_Store
 *.zip
 *.csv
-notes/week1_qc_output.txt
+*.png
+*.jpg
+*.jpeg
+*.pdf
 .vscode/
