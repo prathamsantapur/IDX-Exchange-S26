@@ -12,3 +12,4 @@ __pycache__/
 *.jpeg
 *.pdf
 .vscode/
+external_data/
